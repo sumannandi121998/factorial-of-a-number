@@ -1,4 +1,4 @@
-long factorial(int n)
+long factorial(int n) //function for calculating factorial
 {
   long i,m=1;
   if (n<0)
